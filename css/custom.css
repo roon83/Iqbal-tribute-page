@@ -1,0 +1,108 @@
+.navbar-text > a {
+  color: inherit;
+  text-decoration: none;
+}
+
+body {
+  padding-top: 120px;
+}
+.navbar-inverse {
+  padding-top: 0px;
+}
+.navbar-fixed-bottom {
+  position: static;
+}
+.aboutsection {
+  padding-top: 60px;
+}
+.poetrysection {
+  padding-top: 60px;
+}
+.moresection {
+  padding-top: 60px;
+}
+.jumbotron {
+  background-color: rgba(217, 194, 174);
+  opacity: 0.75;
+}
+.carousel .item {
+  background: rgba(217, 194, 174, 0.75);
+}
+.slide-text {
+  opacity: none;
+}
+.lobsterfont {
+  font-family: 'Lobster', cursive;
+}
+.fjallafont {
+  font-family: 'Fjalla One', sans-serif;
+}
+.droidsansfont {
+  font-family: 'Droid sans', sans-serif;
+}
+body {
+  background-image: url(../image/wood.png);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+h1 {
+  color: rgb(106, 76, 50);
+}
+.text-color {
+  color: rgb(106, 76, 50);
+}
+.slide-text p {
+  font-size: 25px;
+  margin-top: 40%;
+}
+.slide-wrapper {
+  margin-top: 1%;
+}
+.slide-image .thumbnail img {
+  max-height: 465px;
+}
+.navbar-default {
+  background-color: rgb(54,39,25);
+  border-color: rgb(54, 39, 25);
+  color: rgb(54, 39, ,25);
+}
+.navbar-default .navbar-brand {
+  color: rgb(255, 255, 255);
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: rgb(158,115,73);
+  background-color: transparent;
+}
+.navbar-default .navbar-nav > li > a {
+  color: white;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: rgb(158, 115, 73);
+  background-color: rgb(217, 194, 174);
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: rgb(158,115,73);
+  background-color: transparent;
+}
+.divider {
+  padding-bottom: 40px;
+}
+.font-size {
+  font-size: 15px;
+}
+.font-size > div > a,
+.font-size > div > a:hover,
+.font-size > div > a:focus {
+  color: rgb(158, 115, 73);
+}
+.pull-left {
+  margin-left: 5%;
+}
+.pull-right {
+  margin-right: 5%;
+}
